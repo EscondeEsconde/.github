@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/esc-esc.png">
+  <img src="/assets/image.png">
 </div>
 
 #
